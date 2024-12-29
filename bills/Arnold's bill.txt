@@ -1,0 +1,7 @@
+//Example of saved bill
+
+Bill breakdown :
+Ugali mayai:             .....80
+soda:                    .....40
+tip:                     .....30.00
+total:                   ....150.00
